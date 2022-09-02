@@ -1,0 +1,10 @@
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\bin\Debug\LaternaEx2.exe.config
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\bin\Debug\LaternaEx2.exe
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\bin\Debug\LaternaEx2.pdb
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\obj\Debug\LaternaEx2.csprojAssemblyReference.cache
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\obj\Debug\LaternaEx2.FormLaterna.resources
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\obj\Debug\LaternaEx2.Properties.Resources.resources
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\obj\Debug\LaternaEx2.csproj.GenerateResource.cache
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\obj\Debug\LaternaEx2.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\obj\Debug\LaternaEx2.exe
+C:\Users\developer\source\repos\NumerosMultiplos\LaternaEx2\obj\Debug\LaternaEx2.pdb

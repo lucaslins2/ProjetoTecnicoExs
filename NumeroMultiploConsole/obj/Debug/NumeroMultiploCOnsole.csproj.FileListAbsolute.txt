@@ -1,0 +1,13 @@
+C:\Users\developer\source\repos\ProjetoTecnico\ConsoleNumeroMultiplos\obj\Debug\NumeroMultiploCOnsole.csprojAssemblyReference.cache
+C:\Users\developer\source\repos\ProjetoTecnico\ConsoleNumeroMultiplos\obj\Debug\NumeroMultiploCOnsole.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\ProjetoTecnico\ConsoleNumeroMultiplos\bin\Debug\NumeroMultiploConsole.exe.config
+C:\Users\developer\source\repos\ProjetoTecnico\ConsoleNumeroMultiplos\bin\Debug\NumeroMultiploConsole.exe
+C:\Users\developer\source\repos\ProjetoTecnico\ConsoleNumeroMultiplos\bin\Debug\NumeroMultiploConsole.pdb
+C:\Users\developer\source\repos\ProjetoTecnico\ConsoleNumeroMultiplos\obj\Debug\NumeroMultiploConsole.exe
+C:\Users\developer\source\repos\ProjetoTecnico\ConsoleNumeroMultiplos\obj\Debug\NumeroMultiploConsole.pdb
+C:\Users\developer\source\repos\ProjetoTecnico\NumeroMultiploConsole\bin\Debug\NumeroMultiploConsole.exe.config
+C:\Users\developer\source\repos\ProjetoTecnico\NumeroMultiploConsole\bin\Debug\NumeroMultiploConsole.exe
+C:\Users\developer\source\repos\ProjetoTecnico\NumeroMultiploConsole\bin\Debug\NumeroMultiploConsole.pdb
+C:\Users\developer\source\repos\ProjetoTecnico\NumeroMultiploConsole\obj\Debug\NumeroMultiploConsole.csproj.CoreCompileInputs.cache
+C:\Users\developer\source\repos\ProjetoTecnico\NumeroMultiploConsole\obj\Debug\NumeroMultiploConsole.exe
+C:\Users\developer\source\repos\ProjetoTecnico\NumeroMultiploConsole\obj\Debug\NumeroMultiploConsole.pdb
